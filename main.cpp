@@ -1,3 +1,9 @@
+/*
+It is a function that calls itself directly or indirectly,
+
+Credits:
+https://www.geeksforgeeks.org/recursion/
+*/
 #include<iostream>
 
 using namespace std;
